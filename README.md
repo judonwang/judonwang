@@ -1,4 +1,6 @@
-## Hi there 👋
+## About Me
+My name is Justin Wang, a recent graduate in Applied Data Intelligence at San Jose State University with a background in Technology and Information Management from the University of California, Santa Cruz. In the Applied Data Intelligence program, I was able to increase my proficiency in Python, SQL, Big Data, and advanced Machine/Deep learning frameworks.
+
 
 <!--
 **judonwang/judonwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
